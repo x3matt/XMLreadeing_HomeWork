@@ -1,0 +1,20 @@
+
+<persons>
+    <person>
+        <name>Ivan</name>
+        <gender>male</gender>
+        <address>
+            <street>Banhofstrasse</street>
+            <house_number>35</house_number>
+        </address>
+    </person>
+    <person>
+        <name>Maria</name>
+        <gender>female</gender>
+        <address>
+            <street>Friedrichstrasse</street>
+            <house_number>17</house_number>
+        </address>
+    </person>
+</persons>
+        <!-- Person (name, gender, address), Address (street,houseNumber)-->
